@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="limit-modules" value="java.se,jdk.accessibility,jdk.httpserver,jdk.jsobject,jdk.management,jdk.naming.ldap,jdk.net,jdk.sctp,jdk.security.auth,jdk.security.jgss,jdk.unsupported,jdk.xml.dom,openj9.dataaccess,openj9.gpu,openj9.jvm,openj9.sharedclasses,openj9.zosconditionhandling,jdk.management.agent,jdk.charsets,jdk.pack,java.smartcardio,jdk.jdwp.agent,jdk.scripting.nashorn.shell,jdk.crypto.cryptoki,jdk.naming.rmi,jdk.zipfs,jdk.naming.dns,jdk.localedata"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

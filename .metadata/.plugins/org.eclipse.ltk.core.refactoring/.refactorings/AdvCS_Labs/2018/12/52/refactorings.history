@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 2 elements to &apos;AdvCS_Labs/src/(default package)&apos;&#x0A;- Original project: &apos;AdvCS_Labs&apos;&#x0A;- Destination element: &apos;AdvCS_Labs/src/(default package)&apos;&#x0A;- Original elements:&#x0A;     IteratorReplacerRunner.java&#x0A;     IteratorReplacer.java&#x0A;- Update references to refactored element" description="Move files" destination="/src&lt;" element1="IteratorReplacerRunner.java" element2="IteratorReplacer.java" files="2" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1545668548587" units="0" version="1.0"/>
+</session>
